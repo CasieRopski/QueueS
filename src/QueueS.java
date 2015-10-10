@@ -1,6 +1,9 @@
 /*
  *   class QueueS
- *   
+ *   Authors: ALiya Gangji and Casie Ropski
+ *   Date: October 9th 2015
+ *   Class: Data Structures and Algorithms
+ *   Description: 
  *   An implementation of the QueueInterface using stacks.
  */
 
